@@ -2,9 +2,31 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&display=swap');
 
+/* Comon Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.section-titel {
+    min-width: 300px;
+}
+
+.max-w-45 {
+    max-width: 45%;
+}
 
 /* Header Slider  */
 .zero-to-hero-slider-caption {
     max-width: 500px;
     height: 94%;
+}
+
+/* Frequently Asked Styles */
+#frequently-asked {
+    max-width: 900px;
+}
+
+/* Footer Styles  */
+footer .container {
+    max-width: 320px;
 }
