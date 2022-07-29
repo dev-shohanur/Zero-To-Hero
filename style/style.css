@@ -15,16 +15,8 @@ body {
     max-width: 45%;
 }
 
-.zero-to-hero-primary-text {
-    color: #289BDE;
-}
-
-.zero-to-hero-primary-bg {
-    background-color: #289BDE;
-}
-
-.zero-to-hero-primary-bg:hover {
-    background-color: #1996de;
+.width-60{
+    width: 40px;
 }
 
 /* Header Slider  */
@@ -46,7 +38,6 @@ body {
 footer .container {
     max-width: 320px;
 }
-
 
 footer ul li a {
     border-radius: 50%;
